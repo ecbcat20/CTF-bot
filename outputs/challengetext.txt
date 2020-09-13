@@ -1,0 +1,19 @@
+[?1049h[1;24r(B[m[4l[?7h[?1h=[39;49m[39;49m[37m[40m[H[2J[37m[40m[J(B[m[39;49m[37m[40m[37m[40m[J[39;49m(B[m[22d[93m[44mGetting https://pwnable.tw/challenge/5[K[39;49m(B[m[93m[44mLooking up pwnable.tw[K[39;49m(B[m[93m[44mMaking HTTPS connection to pwnable.tw[39;49m(B[m[93m[44mSSL callback:ok, preverify_ok=1, ssl_okay=0[39;49m(B[m[93m[44mVerified connection to pwnable.tw (cert=pwnable.tw)[39;49m(B[m[93m[44mCertificate issued by: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3[39;49m(B[m[93m[44mSecure 256-bit TLSv1.2 (ECDHE-RSA-AES256-GCM-SHA384) HTTP connection[K[39;49m(B[m[3G[93m[44mnding HTTP request.[K[39;49m(B[m[93m[44mHTTP request sent; waiting for response.[39;49m(B[m[93m[41mAlert!: HTTP/1.1 404 Not Found[K[39;49m(B[m[93m[44mData transfer complete[K[39;49m(B[m[2;36H[93m[44mNot Found
+
+[4G[37m[40mThe requested resource was not found on this server.[21d[39;49m(B[m
+
+[3G[37m[40mArrow keys: Up and Down to move.  Right to follow a link; Left to go back.
+ H)elp O)ptions P)rint G)o M)ain screen Q)uit /=search [delete]=history list [39;49m(B[m[22d[93m[44mCommands: Use arrow keys to move, '?' for help, 'q' to quit, '<-' to go back.[39;49m(B[m
+
+[22d
+
+[22d
+
+[22d
+
+[22d
+
+[37m[40m[J[39;49m(B[m[24;1H[?1049l[?1l>
+
+Exiting via interrupt: 2
+

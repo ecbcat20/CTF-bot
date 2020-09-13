@@ -1,0 +1,23 @@
+/Users/kali/Desktop/CTF-Bot/OUTPUT on outputs
+ls
+/Users/kali/Desktop/CTF-Bot/OUTPUT on main.sh
+/Users/kali/Desktop/CTF-Bot/OUTPUT on outputs
+ls
+/Users/kali/Desktop/CTF-Bot/main.sh on main.sh
+/Users/kali/Desktop/CTF-Bot/outputs on outputs
+/Users/kali/Desktop/CTF-Bot/main.sh on main.sh
+/Users/kali/Desktop/CTF-Bot/outputs on outputs
+main.sh
+outputs
+Your directory is: /Users/kali/Desktop/CTF-Bot
+main.sh
+outputs
+What challenge number are you attempting?
+main.sh
+outputs
+main.sh
+outputs
+Your directory is: /Users/kali/Desktop/CTF-Bot
+main.sh
+outputs
+What challenge number are you attempting?
